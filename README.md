@@ -70,10 +70,13 @@ Usage: jamfHelper -windowType [-windowPostion] [-title] [-heading] [-description
 
 -lockHUD
 	Removes the ability to exit the HUD by selecting the close button
+
 -startlaunchd
 	Starts the JAMF Helper as a launchd process
+
 -kill
 	Kills the JAMF Helper when it has been started with launchd
+
 -fullScreenIcon
 	Scales the "icon" to the full size of the window
 	Note: Only available in full screen mode
